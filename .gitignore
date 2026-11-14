@@ -1,5 +1,5 @@
 *
-!*/
-!*.age
+!.vault-store/
+!.vault-store/**
 !recipients.txt
 !.gitignore
